@@ -10,4 +10,7 @@ Whether Asians were more likely to become victims after covid-19 in Los Angeles?
 
 # Installation
 
-| Steps  | Jupyter Notebook | Input file  | Output file | 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
