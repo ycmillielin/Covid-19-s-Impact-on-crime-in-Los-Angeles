@@ -7,6 +7,7 @@ The goal was to analyze the following 2 questions:
 
 
 # Result
+[Presentation]( https://github.com/ycmillielin/Covid-19-s-Impact-on-crime-in-Los-Angeles/blob/main/Presentation.pdf)![image](https://user-images.githubusercontent.com/96958028/230499694-557b516a-b787-407e-bc66-a2f463f29bae.png)
 
 
 
