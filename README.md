@@ -11,9 +11,3 @@ Whether Asians were more likely to become victims after covid-19 in Los Angeles?
 # Installation
 
 | Steps  | Jupyter Notebook | Input file  | Output file | 
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
