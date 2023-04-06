@@ -22,7 +22,7 @@ The goal was to analyze the following 2 questions:
 | 2 | Cleaning_Dataset_2 | df.sav | df.sav |
 | 2 |  | dataset.csv | dataset.csv |
 | 3 | zipcode_finder.ipynb | coords.csv | Coords_w_Zipcodes.csv |
-| 4 | zipcode_merge.ipynb | df.sav | dataset_w_Zipcode.csv |
+| 4 | zipcode_merge.ipynb | df.sav | dataset_w_Zipcode.sav |
 | 4 |  | Coords_w_Zipcodes.csv |  |
 | 5 | Area_zipcode.ipynb | dataset_w_Zipcode.csv | zip_area_max.csv |
 | 6 | EDA visualizations.ipynb | df.sav |  |
