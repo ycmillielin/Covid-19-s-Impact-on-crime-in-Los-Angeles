@@ -12,5 +12,5 @@ Whether Asians were more likely to become victims after covid-19 in Los Angeles?
 
 | Steps | Jupyter Notebook | Input file | Output file |
 | --- | --- | --- | --- |
-| git status | List all new or modified files | sd | df |
-| git diff | Show file differences that haven't been staged | df | f |
+| 1 | Cleaning_Dataset_1 | Crime_Data_from_2010_to_2019.csv | df.sav |
+| 1 |  | Crime_Data_from_2020_to_Present.csv | dataset.csv |
