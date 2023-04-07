@@ -12,16 +12,16 @@ The goal is to analyze the following 2 questions:
 [Presentation]( https://github.com/ycmillielin/Covid-19-s-Impact-on-crime-in-Los-Angeles/blob/main/Presentation.pdf)
 
 # Data
-[Dataset Files]( )
+[Dataset Files]( https://drive.google.com/drive/folders/1NlLHeALTzCl5vXuv5CD7d_IS2ZJlBpMn?usp=sharing)
 
 
 # Installation
 
 | Steps | Jupyter Notebook | Input file | Output file |
 | --- | --- | --- | --- |
-| 1 | Cleaning_Dataset_1 | Crime_Data_from_2010_to_2019.csv | df.sav |
+| 1 | Cleaning_Dataset_1.ipynb | Crime_Data_from_2010_to_2019.csv | df.sav |
 | 1 |  | Crime_Data_from_2020_to_Present.csv | dataset.csv |
-| 2 | Cleaning_Dataset_2 | df.sav | df.sav |
+| 2 | Cleaning_Dataset_2.ipynb | df.sav | df.sav |
 | 2 |  | dataset.csv | dataset.csv |
 | 3 | zipcode_finder.ipynb | coords.csv | Coords_w_Zipcodes.csv |
 | 4 | zipcode_merge.ipynb | df.sav | dataset_w_Zipcode.sav |
